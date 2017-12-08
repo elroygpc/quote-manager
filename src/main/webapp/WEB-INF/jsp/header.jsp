@@ -21,8 +21,8 @@
 		<link rel="stylesheet" type="text/css" href="<c:url value="/resources/css/bootstrap-theme.css"/>" />
 		
 		<!-- JavaScript -->
-		<script src="<c:url value="/resources/js/bootstrap.min.js"/>"></script>
 		<script src="<c:url value="/resources/js/jquery-3.2.1.js"/>"></script>
+		<script src="<c:url value="/resources/js/bootstrap.js"/>"></script>
 		
 		
 		
