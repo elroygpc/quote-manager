@@ -19,6 +19,8 @@
 		<!-- Bootstrap Version 3.3.7 CSS-->
 		<link rel="stylesheet" type="text/css" href="<c:url value="/resources/css/bootstrap.css"/>" />
 		<link rel="stylesheet" type="text/css" href="<c:url value="/resources/css/bootstrap-theme.css"/>" />
+		<link rel="stylesheet" type="text/css" href="<c:url value="/resources/css/carousell.css"/>" />
+		
 		
 		<!-- JavaScript -->
 		<script src="<c:url value="/resources/js/jquery-3.2.1.js"/>"></script>
